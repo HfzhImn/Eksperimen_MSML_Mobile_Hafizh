@@ -1,0 +1,27 @@
+# --- SYSTEM & PYTHON ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# --- ENVIRONMENT & LOGS ---
+venv/
+env/
+.env
+mlruns/
+*.db
+mlflow.db
+
+# --- DATASET SAMPAH ---
+*.zip
+*.rar
+mobile_raw/archive*/
+mobile_raw/test.csv
+mobile_raw/train.csv
+
+# --- FILE RAKSASA (WAJIB ADA) ---
+*.exe
+*.dll
+Monitoring dan Logging/data/
+Monitoring dan Logging/prometheus.exe
+prometheus.exe

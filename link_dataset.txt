@@ -1,0 +1,2 @@
+Nama Dataset: Mobile Price Classification
+Link Dataset: https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
